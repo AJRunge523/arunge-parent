@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.arunge</groupId>
   <artifactId>arunge-parent</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>pom</packaging>
   
   <properties>
@@ -14,7 +14,6 @@
   
   <scm>
     <connection>scm:git:git@github.com:AJRunge523/arunge-parent.git</connection>
-    <tag>arunge-parent-0.0.1</tag>
   </scm>
   
   <dependencyManagement>
