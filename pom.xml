@@ -12,6 +12,10 @@
     <slf4j.version>1.7.25</slf4j.version>
   </properties>
   
+  <scm>
+    <connection>scm:git:git@github.com:AJRunge523/arunge-parent.git</connection>
+  </scm>
+  
   <dependencyManagement>
     <dependencies>
 	    <dependency>
